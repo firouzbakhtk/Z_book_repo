@@ -64,12 +64,6 @@ public class SampleController2 implements Initializable {
 			System.out.println("all done!");
 		});
 		
-//		TranslateTransition ts2 = new TranslateTransition();
-//		ts2.setDuration(Duration.seconds(5));
-//		ts2.setToX(+50);
-//		ts2.setToY(-50);		
-//		ts2.play();
-		
 		
 	}
 	
