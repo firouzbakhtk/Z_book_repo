@@ -51,7 +51,7 @@ public class SampleController2 implements Initializable {
 		// TODO Auto-generated method stub
 		TranslateTransition ts = new TranslateTransition();
 		
-		ts.setDuration(Duration.seconds(.5));
+		ts.setDuration(Duration.seconds(1));
 		ts.setNode(b);
 		
 		ts.setToX(-50);
